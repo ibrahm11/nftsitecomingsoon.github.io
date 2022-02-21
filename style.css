@@ -41,7 +41,7 @@
     font-size: 25px;
     font-weight: bold;
     color: #000000;
-    background:rgb(187, 29, 95) ;
+    background:rgb(209, 96, 143) ;
     border: solid 1px rgb(0, 0, 0);
     cursor: pointer;
     outline: none;
@@ -53,11 +53,11 @@
 }
 
 .buttons button:hover{
-    background:#a842e2;
+    background:#a75ad4;
 }
 
 .background{
-    background: #b15b5b;
+    background: #e4e99c;
     height: 100vh;
     background-size:100% 100% ;
     margin-top: -35px;
