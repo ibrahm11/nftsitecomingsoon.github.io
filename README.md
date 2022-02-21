@@ -1,1 +1,1 @@
-# nftsitecomingsoon.githu.io
+# nftsitecomingsoon.github.io
