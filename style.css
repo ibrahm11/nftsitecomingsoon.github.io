@@ -1,0 +1,65 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+/*center*/
+
+.center{
+    text-align: center;
+}
+
+
+.center .buttons{
+    text-align: center;
+ 
+}
+
+.center h1{
+    font-size: 40px;
+    margin: 35px 280px;
+    text-align: center;
+    margin-top: 35px;
+    
+ 
+}
+
+.center h2{
+    font-size: 30px;
+    margin: 35px 280px;
+    text-align: center;
+   
+ 
+}
+
+/*buttons*/
+
+
+.buttons button{
+    height: 80px;
+    width: 300px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #000000;
+    background:rgb(187, 29, 95) ;
+    border: solid 1px rgb(0, 0, 0);
+    cursor: pointer;
+    outline: none;
+    border-radius: 15px;
+    transition: .5s ;
+    justify-items: center;
+   
+    
+}
+
+.buttons button:hover{
+    background:#a842e2;
+}
+
+.background{
+    background: #b15b5b;
+    height: 100vh;
+    background-size:100% 100% ;
+    margin-top: -35px;
+    
+}
